@@ -1,6 +1,6 @@
 trigger:
 - feature-ms-FranciscoParraguez-mensaje
-  
+
 pool:
   vmImage: ubuntu-latest
 
